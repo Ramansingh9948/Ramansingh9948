@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramansingh9948
 - 👀 I’m interested in Product Development and Management. 
 - 🌱 I’m currently learning DSA IN C++
-- 💞️ I’m looking to collaborate on PROJECTS,,
+- 💞️ I’m looking to collaborate on PROJECTS.
 - 📫 Reach at my Mail box rsingh24595@gmail.com
 - 😄 Pronouns: He/His
 - Check out my latest Product www.thinkncollab.com
